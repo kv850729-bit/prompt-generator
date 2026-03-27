@@ -10,7 +10,6 @@ A simple GUI tool for generating Stable Diffusion prompts.
 * Lighting & cinematic presets
 * Easy copy for ComfyUI / A1111
 
-## 🖥️ Usage
 
 ## 🚀 Quick Start
 
@@ -19,8 +18,6 @@ git clone https://github.com/kv850729/prompt-generator.git
 cd prompt-generator
 python3 prompt_generator_v23_2.py
 
-```bash
-python3 prompt_generator_v23_2.py
 ```
 
 ## 📦 Requirements
