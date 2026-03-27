@@ -12,6 +12,13 @@ A simple GUI tool for generating Stable Diffusion prompts.
 
 ## 🖥️ Usage
 
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/你的帳號/prompt-generator.git
+cd prompt-generator
+python3 prompt_generator_v22.py
+
 ```bash
 python3 prompt_generator_v22.py
 ```
