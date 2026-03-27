@@ -1,0 +1,890 @@
+{
+  "meta": {
+    "max_positive_tags": 42,
+    "nsfw_density": {
+      "light": 3,
+      "medium": 5,
+      "heavy": 8
+    }
+  },
+  "subject": [
+    "1girl",
+    "solo"
+  ],
+  "quality": [
+    "(best quality:1.2)",
+    "high quality",
+    "highres",
+    "extremely detailed"
+  ],
+  "style_main": {
+    "anime": [
+      "anime style",
+      "illustration",
+      "clean lineart"
+    ],
+    "realistic": [
+      "photorealistic",
+      "realistic skin",
+      "8k uhd"
+    ]
+  },
+  "selectors": {
+    "ethnicity": {
+      "label": "人種",
+      "options": {
+        "隨機": [
+          "East Asian",
+          "Japanese",
+          "Korean",
+          "Chinese",
+          "Taiwanese",
+          "White",
+          "American",
+          "French",
+          "German",
+          "Russian",
+          "Latina",
+          "Brazilian",
+          "Middle Eastern",
+          "Indian",
+          "African"
+        ],
+        "東亞": [
+          "Japanese",
+          "Korean",
+          "Chinese",
+          "Taiwanese"
+        ],
+        "日本": [
+          "Japanese"
+        ],
+        "韓國": [
+          "Korean"
+        ],
+        "華人": [
+          "Chinese",
+          "Taiwanese"
+        ],
+        "歐美白人": [
+          "American",
+          "French",
+          "German",
+          "Russian"
+        ],
+        "拉丁": [
+          "Latina",
+          "Brazilian"
+        ],
+        "中東": [
+          "Middle Eastern"
+        ],
+        "印度": [
+          "Indian"
+        ],
+        "非洲": [
+          "African"
+        ]
+      }
+    },
+    "age_group": {
+      "label": "年齡",
+      "options": {
+        "隨機": [
+          "teenage girl",
+          "young woman",
+          "adult woman",
+          "mature woman"
+        ],
+        "少女": [
+          "teenage girl"
+        ],
+        "年輕成人": [
+          "young woman"
+        ],
+        "成人": [
+          "adult woman"
+        ],
+        "成熟": [
+          "mature woman"
+        ],
+        "蘿莉風": [
+          "petite",
+          "small frame",
+          "flat chest",
+          "young looking",
+          "short height"
+        ]
+      }
+    },
+    "composition_distance": {
+      "label": "構圖距離",
+      "options": {
+        "隨機": [
+          "close-up",
+          "portrait",
+          "upper body",
+          "waist up",
+          "cowboy shot",
+          "full body"
+        ],
+        "特寫": [
+          "close-up",
+          "portrait"
+        ],
+        "半身": [
+          "upper body",
+          "waist up"
+        ],
+        "中景": [
+          "cowboy shot"
+        ],
+        "全身": [
+          "full body"
+        ]
+      }
+    },
+    "camera_angle": {
+      "label": "視角",
+      "options": {
+        "隨機": [
+          "front view",
+          "from side",
+          "three-quarter view",
+          "back view",
+          "low angle",
+          "high angle"
+        ],
+        "正面": [
+          "front view"
+        ],
+        "側面": [
+          "from side",
+          "three-quarter view"
+        ],
+        "背面": [
+          "back view"
+        ],
+        "仰視": [
+          "low angle"
+        ],
+        "俯視": [
+          "high angle"
+        ]
+      }
+    },
+    "body_pose": {
+      "label": "基礎姿勢",
+      "options": {
+        "隨機": [
+          "standing",
+          "sitting",
+          "leaning",
+          "walking",
+          "lying"
+        ],
+        "站姿": [
+          "standing"
+        ],
+        "坐姿": [
+          "sitting"
+        ],
+        "躺姿": [
+          "lying"
+        ]
+      }
+    },
+    "expression": {
+      "label": "表情",
+      "options": {
+        "隨機": [
+          "neutral expression",
+          "soft smile",
+          "shy expression",
+          "embarrassed",
+          "serious",
+          "blush"
+        ],
+        "自然": [
+          "neutral expression"
+        ],
+        "微笑": [
+          "soft smile"
+        ],
+        "害羞": [
+          "shy expression",
+          "embarrassed",
+          "blush"
+        ]
+      }
+    },
+    "hair_color": {
+      "label": "髮色",
+      "options": {
+        "隨機": [
+          "black hair",
+          "brown hair",
+          "blonde hair",
+          "silver hair",
+          "white hair",
+          "red hair",
+          "blue hair",
+          "pink hair",
+          "purple hair",
+          "green hair"
+        ],
+        "黑": [
+          "black hair"
+        ],
+        "棕": [
+          "brown hair"
+        ],
+        "金": [
+          "blonde hair"
+        ],
+        "銀白": [
+          "silver hair",
+          "white hair"
+        ],
+        "紅": [
+          "red hair"
+        ],
+        "冷色": [
+          "blue hair",
+          "purple hair",
+          "green hair"
+        ],
+        "粉": [
+          "pink hair"
+        ]
+      }
+    },
+    "hair_length": {
+      "label": "髮長",
+      "options": {
+        "隨機": [
+          "short hair",
+          "medium hair",
+          "long hair"
+        ],
+        "短髮": [
+          "short hair"
+        ],
+        "中長髮": [
+          "medium hair"
+        ],
+        "長髮": [
+          "long hair"
+        ]
+      }
+    },
+    "hair_texture": {
+      "label": "髮質",
+      "options": {
+        "隨機": [
+          "straight hair",
+          "wavy hair",
+          "messy hair"
+        ],
+        "直髮": [
+          "straight hair"
+        ],
+        "波浪": [
+          "wavy hair"
+        ],
+        "微亂": [
+          "messy hair"
+        ]
+      }
+    },
+    "hair_front": {
+      "label": "前髮",
+      "options": {
+        "隨機": [
+          "bangs",
+          "side bangs",
+          "forehead visible"
+        ],
+        "瀏海": [
+          "bangs"
+        ],
+        "側瀏海": [
+          "side bangs"
+        ],
+        "露額頭": [
+          "forehead visible"
+        ]
+      }
+    },
+    "eye_color": {
+      "label": "瞳色",
+      "options": {
+        "隨機": [
+          "brown eyes",
+          "blue eyes",
+          "green eyes",
+          "red eyes",
+          "purple eyes",
+          "golden eyes",
+          "pink eyes",
+          "gray eyes"
+        ],
+        "棕": [
+          "brown eyes"
+        ],
+        "藍": [
+          "blue eyes"
+        ],
+        "綠": [
+          "green eyes"
+        ],
+        "紅": [
+          "red eyes"
+        ],
+        "紫": [
+          "purple eyes"
+        ],
+        "金": [
+          "golden eyes"
+        ],
+        "粉": [
+          "pink eyes"
+        ],
+        "灰": [
+          "gray eyes"
+        ]
+      }
+    },
+    "hand_action": {
+      "label": "手部動作",
+      "options": {
+        "隨機": [
+          "hand on own chest",
+          "hand on own thigh",
+          "hand on own face",
+          "touching hair",
+          "holding clothes",
+          "hand on hip"
+        ],
+        "身體": [
+          "hand on own chest",
+          "hand on own thigh",
+          "hand on hip"
+        ],
+        "臉部": [
+          "hand on own face"
+        ],
+        "撥髮": [
+          "touching hair"
+        ],
+        "抓衣": [
+          "holding clothes"
+        ]
+      }
+    },
+    "outfit_style": {
+      "label": "服裝",
+      "options": {
+        "隨機": [
+          "dress",
+          "school uniform",
+          "shirt",
+          "sweater",
+          "hoodie",
+          "jacket",
+          "coat",
+          "lingerie",
+          "bikini",
+          "one-piece swimsuit",
+          "maid outfit",
+          "cheongsam",
+          "kimono",
+          "nurse outfit",
+          "office lady",
+          "leotard",
+          "yukata"
+        ],
+        "日常": [
+          "shirt",
+          "sweater",
+          "hoodie",
+          "jacket",
+          "coat"
+        ],
+        "制服": [
+          "school uniform",
+          "office lady",
+          "nurse outfit",
+          "maid outfit"
+        ],
+        "洋裝": [
+          "dress",
+          "cheongsam",
+          "kimono",
+          "yukata"
+        ],
+        "泳裝": [
+          "bikini",
+          "one-piece swimsuit"
+        ],
+        "貼身": [
+          "lingerie",
+          "leotard"
+        ]
+      }
+    },
+    "accessory": {
+      "label": "飾品",
+      "options": {
+        "隨機": [
+          "hair ribbon",
+          "hair clip",
+          "hairband",
+          "choker",
+          "necklace",
+          "collar",
+          "pendant",
+          "earrings",
+          "glasses",
+          "bracelet",
+          "garter belt",
+          "thigh strap",
+          "arm warmers",
+          "flower accessory"
+        ],
+        "髮飾": [
+          "hair ribbon",
+          "hair clip",
+          "hairband",
+          "flower accessory"
+        ],
+        "頸部": [
+          "choker",
+          "necklace",
+          "collar",
+          "pendant"
+        ],
+        "耳飾": [
+          "earrings"
+        ],
+        "眼鏡": [
+          "glasses"
+        ],
+        "手部": [
+          "bracelet",
+          "arm warmers"
+        ],
+        "腿部": [
+          "garter belt",
+          "thigh strap"
+        ]
+      }
+    },
+    "background": {
+      "label": "背景",
+      "options": {
+        "隨機": [
+          "simple background",
+          "blurred background",
+          "indoor",
+          "bedroom",
+          "outdoor",
+          "street"
+        ],
+        "簡單": [
+          "simple background"
+        ],
+        "室內": [
+          "indoor",
+          "bedroom"
+        ],
+        "室外": [
+          "outdoor",
+          "street"
+        ]
+      }
+    },
+    "atmosphere": {
+      "label": "氛圍",
+      "options": {
+        "隨機": [
+          "dreamy",
+          "quiet",
+          "mysterious",
+          "romantic"
+        ],
+        "夢幻": [
+          "dreamy"
+        ],
+        "安靜": [
+          "quiet"
+        ],
+        "神秘": [
+          "mysterious"
+        ],
+        "浪漫": [
+          "romantic"
+        ]
+      }
+    }
+  },
+  "nsfw_selectors": {
+    "nsfw_camera": {
+      "label": "NSFW鏡頭",
+      "options": {
+        "隨機": [
+          "view from below",
+          "view from behind",
+          "first-person view",
+          "pov",
+          "bird's eye view",
+          "fisheye"
+        ],
+        "仰拍": [
+          "view from below"
+        ],
+        "POV": [
+          "first-person view",
+          "pov"
+        ],
+        "背後視角": [
+          "view from behind"
+        ]
+      }
+    },
+    "focus_area": {
+      "label": "視覺焦點",
+      "options": {
+        "隨機": [
+          "cleavage focus",
+          "breast focus",
+          "ass focus",
+          "hip focus",
+          "lower body focus",
+          "chest focus"
+        ],
+        "胸部": [
+          "cleavage focus",
+          "breast focus",
+          "chest focus"
+        ],
+        "臀部": [
+          "ass focus",
+          "hip focus"
+        ],
+        "下半身": [
+          "lower body focus"
+        ]
+      }
+    },
+    "nsfw_pose_action": {
+      "label": "行為姿勢",
+      "options": {
+        "隨機": [
+          "all fours",
+          "lying on back",
+          "kneeling",
+          "bent over",
+          "spread legs",
+          "m-legged",
+          "straddling",
+          "cowgirl position",
+          "presenting pussy"
+        ],
+        "Ｍ字/開腿": [
+          "spread legs",
+          "m-legged",
+          "frog pose"
+        ],
+        "四足/背對": [
+          "all fours",
+          "bent over",
+          "from behind",
+          "presenting pussy"
+        ],
+        "坐姿/跨坐": [
+          "straddling",
+          "cowgirl position"
+        ],
+        "拘束感": [
+          "bound",
+          "arms behind back",
+          "wrists tied"
+        ]
+      }
+    },
+    "areola_detail": {
+      "label": "乳暈乳頭",
+      "options": {
+        "隨機": [
+          "puffy nipples",
+          "large areolae",
+          "dark areolae",
+          "small areolae",
+          "light areolae"
+        ],
+        "明顯乳頭": [
+          "puffy nipples"
+        ],
+        "大乳暈": [
+          "large areolae"
+        ],
+        "深色": [
+          "dark areolae"
+        ]
+      }
+    },
+    "breast_pressure": {
+      "label": "擠壓變形",
+      "options": {
+        "隨機": [
+          "breast press",
+          "squeezed breasts",
+          "breast compression",
+          "cleavage focus"
+        ],
+        "擠壓": [
+          "breast press",
+          "squeezed breasts"
+        ],
+        "事業線": [
+          "cleavage focus"
+        ]
+      }
+    },
+    "breast_size": {
+      "label": "胸部大小",
+      "options": {
+        "隨機": [
+          "flat chest",
+          "small breasts",
+          "medium breasts",
+          "large breasts",
+          "huge breasts"
+        ],
+        "貧乳": [
+          "flat chest"
+        ],
+        "小": [
+          "small breasts"
+        ],
+        "中": [
+          "medium breasts"
+        ],
+        "大": [
+          "large breasts"
+        ],
+        "巨乳": [
+          "huge breasts"
+        ]
+      }
+    },
+    "wetness": {
+      "label": "濕潤程度",
+      "options": {
+        "隨機": [
+          "wet skin",
+          "sweat",
+          "dripping wet",
+          "pussy juice"
+        ],
+        "微濕": [
+          "wet skin",
+          "sweat"
+        ],
+        "濕": [
+          "dripping wet"
+        ],
+        "大量": [
+          "pussy juice"
+        ]
+      }
+    },
+    "hand_nsfw": {
+      "label": "手部細節",
+      "options": {
+        "隨機": [
+          "hand on own pussy",
+          "fingering",
+          "spread pussy",
+          "pulling underwear aside"
+        ],
+        "自慰": [
+          "hand on own pussy",
+          "fingering"
+        ],
+        "挑開": [
+          "spread pussy",
+          "pulling underwear aside"
+        ]
+      }
+    }
+  },
+  "face_detail": [
+    "beautiful face",
+    "detailed eyes",
+    "blush",
+    "long eyelashes",
+    "clear skin"
+  ],
+  "light_strength": {
+    "soft": [
+      "soft lighting"
+    ],
+    "strong": [
+      "strong light"
+    ],
+    "mixed": [
+      "soft lighting",
+      "diffused lighting",
+      "strong light",
+      "dramatic light"
+    ],
+    "cinematic": [
+      "cinematic lighting",
+      "moody lighting"
+    ]
+  },
+  "light_direction": [
+    "light from side",
+    "backlight"
+  ],
+  "light_effect": [
+    "rim light",
+    "soft shadows"
+  ],
+  "cinematic_presets_order": [
+    "general",
+    "neo-noir",
+    "warm romance",
+    "cold thriller",
+    "dreamy",
+    "sunset glow",
+    "moody indoor",
+    "teal orange"
+  ],
+  "cinematic_presets": {
+    "general": [
+      "cinematic color grading"
+    ],
+    "neo-noir": [
+      "neo-noir",
+      "high contrast",
+      "deep shadows"
+    ],
+    "warm romance": [
+      "warm color grading",
+      "soft glow",
+      "golden light"
+    ],
+    "cold thriller": [
+      "cold color grading",
+      "blue shadows",
+      "tense atmosphere"
+    ],
+    "dreamy": [
+      "dreamy lighting",
+      "soft bloom",
+      "hazy atmosphere"
+    ],
+    "sunset glow": [
+      "sunset lighting",
+      "golden hour",
+      "warm rim light"
+    ],
+    "moody indoor": [
+      "moody lighting",
+      "dim indoor light",
+      "soft shadows"
+    ],
+    "teal orange": [
+      "teal and orange color grading",
+      "cinematic contrast"
+    ]
+  },
+  "nsfw": {
+    "light": {
+      "positive": [
+        "cleavage",
+        "suggestive"
+      ],
+      "negative": [
+        "censored"
+      ],
+      "light_bonus": [
+        "soft lighting",
+        "rim light"
+      ]
+    },
+    "medium": {
+      "positive": [
+        "naked",
+        "nipples"
+      ],
+      "negative": [
+        "censored"
+      ],
+      "light_bonus": [
+        "cinematic lighting",
+        "rim light"
+      ]
+    },
+    "heavy": {
+      "positive": [
+        "naked",
+        "nipples",
+        "spreading"
+      ],
+      "negative": [
+        "censored"
+      ],
+      "light_bonus": [
+        "cinematic lighting",
+        "high contrast"
+      ],
+      "camera_bias": [
+        "close-up",
+        "portrait",
+        "upper body",
+        "waist up"
+      ],
+      "exposure_focus": [
+        "cleavage focus",
+        "chest focus",
+        "lower body focus"
+      ]
+    }
+  },
+  "negative_base": [
+    "worst quality",
+    "low quality",
+    "blurry",
+    "bad anatomy",
+    "extra fingers",
+    "watermark",
+    "text"
+  ],
+  "negative_by_style": {
+    "anime": [
+      "realistic",
+      "3d"
+    ],
+    "realistic": [
+      "anime",
+      "cartoon"
+    ]
+  },
+  "negative_by_light": {
+    "soft": [
+      "harsh lighting"
+    ],
+    "strong": [
+      "flat lighting"
+    ],
+    "mixed": [
+      "flat lighting",
+      "washed out"
+    ],
+    "cinematic": []
+  }
+}
