@@ -17,10 +17,10 @@ A simple GUI tool for generating Stable Diffusion prompts.
 ```bash
 git clone https://github.com/kv850729/prompt-generator.git
 cd prompt-generator
-python3 prompt_generator_v23.py
+python3 prompt_generator_v23_2.py
 
 ```bash
-python3 prompt_generator_v23.py
+python3 prompt_generator_v23_2.py
 ```
 
 ## 📦 Requirements
@@ -29,8 +29,8 @@ python3 prompt_generator_v23.py
 
 ## 📁 Files
 
-* prompt_generator_v23.py → main program
-* prompt_config_v23.json → config data
+* prompt_generator_v23_2.py → main program
+* prompt_config_v23_2.json → config data
 
 ## 🧠 Notes
 
