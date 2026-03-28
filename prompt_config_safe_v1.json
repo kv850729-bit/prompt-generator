@@ -1,0 +1,734 @@
+{
+  "meta": {
+    "max_positive_tags": 42
+  },
+  "subject": [
+    "1girl",
+    "solo"
+  ],
+  "quality": [
+    "(best quality:1.2)",
+    "high quality",
+    "highres",
+    "extremely detailed"
+  ],
+  "style_main": {
+    "anime": [
+      "anime style",
+      "illustration",
+      "clean lineart"
+    ],
+    "realistic": [
+      "photorealistic",
+      "realistic skin",
+      "8k uhd"
+    ]
+  },
+  "selectors": {
+    "ethnicity": {
+      "label": "人種",
+      "options": {
+        "隨機": [
+          "Japanese",
+          "Korean",
+          "Chinese",
+          "Taiwanese",
+          "American",
+          "French",
+          "German",
+          "Russian",
+          "Latina",
+          "Brazilian",
+          "Middle Eastern",
+          "Indian",
+          "African"
+        ],
+        "東亞": [
+          "Japanese",
+          "Korean",
+          "Chinese",
+          "Taiwanese"
+        ],
+        "日本": [
+          "Japanese"
+        ],
+        "韓國": [
+          "Korean"
+        ],
+        "華人": [
+          "Chinese",
+          "Taiwanese"
+        ],
+        "歐美白人": [
+          "American",
+          "French",
+          "German",
+          "Russian"
+        ],
+        "拉丁": [
+          "Latina",
+          "Brazilian"
+        ],
+        "中東": [
+          "Middle Eastern"
+        ],
+        "印度": [
+          "Indian"
+        ],
+        "非洲": [
+          "African"
+        ]
+      }
+    },
+    "age_group": {
+      "label": "年齡",
+      "options": {
+        "隨機": [
+          "teenage girl",
+          "young woman",
+          "adult woman",
+          "mature woman"
+        ],
+        "少女": [
+          "teenage girl"
+        ],
+        "年輕成人": [
+          "young woman"
+        ],
+        "成人": [
+          "adult woman"
+        ],
+        "成熟": [
+          "mature woman"
+        ]
+      }
+    },
+    "composition_distance": {
+      "label": "構圖距離",
+      "options": {
+        "隨機": [
+          "close-up",
+          "portrait",
+          "upper body",
+          "waist up",
+          "cowboy shot",
+          "full body"
+        ],
+        "特寫": [
+          "close-up",
+          "portrait"
+        ],
+        "半身": [
+          "upper body",
+          "waist up"
+        ],
+        "中景": [
+          "cowboy shot"
+        ],
+        "全身": [
+          "full body"
+        ]
+      }
+    },
+    "camera_angle": {
+      "label": "視角",
+      "options": {
+        "隨機": [
+          "front view",
+          "from side",
+          "three-quarter view",
+          "back view",
+          "low angle",
+          "high angle"
+        ],
+        "正面": [
+          "front view"
+        ],
+        "側面": [
+          "from side",
+          "three-quarter view"
+        ],
+        "背面": [
+          "back view"
+        ],
+        "仰視": [
+          "low angle"
+        ],
+        "俯視": [
+          "high angle"
+        ]
+      }
+    },
+    "body_pose": {
+      "label": "基礎姿勢",
+      "options": {
+        "隨機": [
+          "standing",
+          "sitting",
+          "leaning",
+          "walking",
+          "lying"
+        ],
+        "站姿": [
+          "standing"
+        ],
+        "坐姿": [
+          "sitting"
+        ],
+        "躺姿": [
+          "lying"
+        ]
+      }
+    },
+    "expression": {
+      "label": "表情",
+      "options": {
+        "隨機": [
+          "neutral expression",
+          "soft smile",
+          "shy expression",
+          "embarrassed",
+          "serious",
+          "blush"
+        ],
+        "自然": [
+          "neutral expression"
+        ],
+        "微笑": [
+          "soft smile"
+        ],
+        "害羞": [
+          "shy expression",
+          "embarrassed",
+          "blush"
+        ]
+      }
+    },
+    "hair_color": {
+      "label": "髮色",
+      "options": {
+        "隨機": [
+          "black hair",
+          "brown hair",
+          "blonde hair",
+          "silver hair",
+          "white hair",
+          "red hair",
+          "blue hair",
+          "pink hair",
+          "purple hair",
+          "green hair"
+        ],
+        "黑": [
+          "black hair"
+        ],
+        "棕": [
+          "brown hair"
+        ],
+        "金": [
+          "blonde hair"
+        ],
+        "銀白": [
+          "silver hair",
+          "white hair"
+        ],
+        "紅": [
+          "red hair"
+        ],
+        "冷色": [
+          "blue hair",
+          "purple hair",
+          "green hair"
+        ],
+        "粉": [
+          "pink hair"
+        ]
+      }
+    },
+    "hair_length": {
+      "label": "髮長",
+      "options": {
+        "隨機": [
+          "short hair",
+          "medium hair",
+          "long hair",
+          "bob cut"
+        ],
+        "短髮": [
+          "short hair"
+        ],
+        "中長髮": [
+          "medium hair"
+        ],
+        "長髮": [
+          "long hair"
+        ],
+        "鮑伯頭": [
+          "bob cut"
+        ]
+      }
+    },
+    "hair_texture": {
+      "label": "髮質",
+      "options": {
+        "隨機": [
+          "straight hair",
+          "wavy hair",
+          "messy hair"
+        ],
+        "直髮": [
+          "straight hair"
+        ],
+        "波浪": [
+          "wavy hair"
+        ],
+        "微亂": [
+          "messy hair"
+        ]
+      }
+    },
+    "hair_front": {
+      "label": "前髮",
+      "options": {
+        "隨機": [
+          "bangs",
+          "side bangs",
+          "forehead visible"
+        ],
+        "瀏海": [
+          "bangs"
+        ],
+        "側瀏海": [
+          "side bangs"
+        ],
+        "露額頭": [
+          "forehead visible"
+        ]
+      }
+    },
+    "eye_color": {
+      "label": "瞳色",
+      "options": {
+        "隨機": [
+          "brown eyes",
+          "blue eyes",
+          "green eyes",
+          "red eyes",
+          "purple eyes",
+          "golden eyes",
+          "pink eyes",
+          "gray eyes"
+        ],
+        "棕": [
+          "brown eyes"
+        ],
+        "藍": [
+          "blue eyes"
+        ],
+        "綠": [
+          "green eyes"
+        ],
+        "紅": [
+          "red eyes"
+        ],
+        "紫": [
+          "purple eyes"
+        ],
+        "金": [
+          "golden eyes"
+        ],
+        "粉": [
+          "pink eyes"
+        ],
+        "灰": [
+          "gray eyes"
+        ]
+      }
+    },
+    "hand_action": {
+      "label": "手部動作",
+      "options": {
+        "隨機": [
+          "hand on own chest",
+          "hand on own thigh",
+          "hand on own face",
+          "touching hair",
+          "holding clothes",
+          "hand on hip"
+        ],
+        "身體": [
+          "hand on own chest",
+          "hand on own thigh",
+          "hand on hip"
+        ],
+        "臉部": [
+          "hand on own face"
+        ],
+        "撥髮": [
+          "touching hair"
+        ],
+        "抓衣": [
+          "holding clothes"
+        ]
+      }
+    },
+    "outfit_style": {
+      "label": "服裝",
+      "options": {
+        "隨機": [
+          "shirt",
+          "sweater",
+          "hoodie",
+          "jacket",
+          "coat",
+          "school uniform",
+          "office lady",
+          "nurse outfit",
+          "maid outfit",
+          "dress",
+          "cheongsam",
+          "kimono",
+          "yukata",
+          "bikini",
+          "one-piece swimsuit"
+        ],
+        "日常": [
+          "shirt",
+          "sweater",
+          "hoodie",
+          "jacket",
+          "coat"
+        ],
+        "制服": [
+          "school uniform",
+          "office lady",
+          "nurse outfit",
+          "maid outfit"
+        ],
+        "洋裝": [
+          "dress",
+          "cheongsam",
+          "kimono",
+          "yukata"
+        ],
+        "泳裝": [
+          "bikini",
+          "one-piece swimsuit"
+        ],
+        "貼身": []
+      }
+    },
+    "accessory": {
+      "label": "飾品",
+      "options": {
+        "隨機": [
+          "hair ribbon",
+          "hair clip",
+          "hairband",
+          "flower accessory",
+          "choker",
+          "necklace",
+          "collar",
+          "pendant",
+          "earrings",
+          "glasses",
+          "bracelet",
+          "arm warmers",
+          "thigh strap",
+          "thigh garter",
+          "leg harness"
+        ],
+        "髮飾": [
+          "hair ribbon",
+          "hair clip",
+          "hairband",
+          "flower accessory"
+        ],
+        "頸部": [
+          "choker",
+          "necklace",
+          "collar",
+          "pendant"
+        ],
+        "耳飾": [
+          "earrings"
+        ],
+        "眼鏡": [
+          "glasses"
+        ],
+        "手部": [
+          "bracelet",
+          "arm warmers"
+        ],
+        "腿部": [
+          "thigh strap",
+          "thigh garter",
+          "leg harness"
+        ],
+        "大腿飾品": [
+          "thigh strap",
+          "thigh garter",
+          "leg harness"
+        ]
+      }
+    },
+    "background": {
+      "label": "背景",
+      "options": {
+        "隨機": [
+          "simple background",
+          "blurred background",
+          "indoor",
+          "bedroom",
+          "outdoor",
+          "street"
+        ],
+        "簡單": [
+          "simple background"
+        ],
+        "室內": [
+          "indoor",
+          "bedroom"
+        ],
+        "室外": [
+          "outdoor",
+          "street"
+        ]
+      }
+    },
+    "atmosphere": {
+      "label": "氛圍",
+      "options": {
+        "隨機": [
+          "dreamy",
+          "quiet",
+          "mysterious",
+          "romantic"
+        ],
+        "夢幻": [
+          "dreamy"
+        ],
+        "安靜": [
+          "quiet"
+        ],
+        "神秘": [
+          "mysterious"
+        ],
+        "浪漫": [
+          "romantic"
+        ]
+      }
+    },
+    "pose_template": {
+      "label": "姿勢模板",
+      "options": {
+        "隨機": [
+          "無",
+          "倚靠站姿",
+          "舉手伸展",
+          "跪姿前傾",
+          "坐姿交叉腿",
+          "回頭視角",
+          "側躺撐頭",
+          "雙手撐地",
+          "蹲姿視角",
+          "低角度仰視"
+        ],
+        "無": [],
+        "倚靠站姿": [
+          "leaning",
+          "one leg raised",
+          "casual stance"
+        ],
+        "舉手伸展": [
+          "arms up",
+          "stretching",
+          "looking down"
+        ],
+        "跪姿前傾": [
+          "kneeling",
+          "leaning forward",
+          "eye contact"
+        ],
+        "坐姿交叉腿": [
+          "sitting",
+          "crossed legs",
+          "relaxed posture"
+        ],
+        "回頭視角": [
+          "looking back",
+          "over shoulder",
+          "twisted torso"
+        ],
+        "側躺撐頭": [
+          "lying on side",
+          "propping head",
+          "relaxed"
+        ],
+        "雙手撐地": [
+          "hands on ground",
+          "leaning forward",
+          "arched back"
+        ],
+        "蹲姿視角": [
+          "squatting",
+          "looking at viewer",
+          "low angle"
+        ],
+        "低角度仰視": [
+          "from below",
+          "looking down at viewer",
+          "dominant angle"
+        ]
+      }
+    },
+    "outfit_template": {
+      "label": "服裝模板",
+      "options": {
+        "隨機": [
+          "無",
+          "街頭惡魔風",
+          "黑色晚宴風",
+          "街頭戰鬥風"
+        ],
+        "無": [],
+        "街頭惡魔風": [
+          "cropped shirt",
+          "micro skirt",
+          "choker",
+          "arm warmers"
+        ],
+        "黑色晚宴風": [
+          "black dress",
+          "long gloves",
+          "lace choker",
+          "elegant outfit"
+        ],
+        "街頭戰鬥風": [
+          "cropped shirt",
+          "micro skirt",
+          "belted skirt",
+          "thigh strap",
+          "arm warmers",
+          "fingerless gloves",
+          "punk style",
+          "streetwear"
+        ]
+      }
+    }
+  },
+  "face_detail": [
+    "beautiful face",
+    "detailed eyes",
+    "blush",
+    "long eyelashes",
+    "clear skin"
+  ],
+  "light_strength": {
+    "soft": [
+      "soft lighting"
+    ],
+    "strong": [
+      "strong light"
+    ],
+    "mixed": [
+      "soft lighting",
+      "diffused lighting",
+      "strong light",
+      "dramatic light"
+    ],
+    "cinematic": [
+      "cinematic lighting",
+      "moody lighting"
+    ]
+  },
+  "light_direction": [
+    "light from side",
+    "backlight"
+  ],
+  "light_effect": [
+    "rim light",
+    "soft shadows"
+  ],
+  "cinematic_presets_order": [
+    "general",
+    "neo-noir",
+    "warm romance",
+    "cold thriller",
+    "dreamy",
+    "sunset glow",
+    "moody indoor",
+    "teal orange"
+  ],
+  "cinematic_presets": {
+    "general": [
+      "cinematic color grading"
+    ],
+    "neo-noir": [
+      "neo-noir",
+      "high contrast",
+      "deep shadows"
+    ],
+    "warm romance": [
+      "warm color grading",
+      "soft glow",
+      "golden light"
+    ],
+    "cold thriller": [
+      "cold color grading",
+      "blue shadows",
+      "tense atmosphere"
+    ],
+    "dreamy": [
+      "dreamy lighting",
+      "soft bloom",
+      "hazy atmosphere"
+    ],
+    "sunset glow": [
+      "sunset lighting",
+      "golden hour",
+      "warm rim light"
+    ],
+    "moody indoor": [
+      "moody lighting",
+      "dim indoor light",
+      "soft shadows"
+    ],
+    "teal orange": [
+      "teal and orange color grading",
+      "cinematic contrast"
+    ]
+  },
+  "negative_base": [
+    "worst quality",
+    "low quality",
+    "blurry",
+    "bad anatomy",
+    "extra fingers",
+    "watermark",
+    "text"
+  ],
+  "negative_by_style": {
+    "anime": [
+      "realistic",
+      "3d"
+    ],
+    "realistic": [
+      "anime",
+      "cartoon"
+    ]
+  },
+  "negative_by_light": {
+    "soft": [
+      "harsh lighting"
+    ],
+    "strong": [
+      "flat lighting"
+    ],
+    "mixed": [
+      "flat lighting",
+      "washed out"
+    ],
+    "cinematic": []
+  }
+}
